@@ -15,7 +15,6 @@
 - [《深入浅出 nodejs》](./note/深入浅出nodejs.md)
 - [《Linux/Unix设计思想》](./note/Linux-Unix设计思想.md)
 - [《松本行弘的程序世界》](./note/松本行弘的程序世界.md)
-- [《CSS 设计指南》](./note/CSS设计指南.md)
 
 ## 视频
 
