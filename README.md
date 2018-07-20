@@ -16,12 +16,6 @@
 - [《Linux/Unix设计思想》](./note/Linux-Unix设计思想.md)
 - [《松本行弘的程序世界》](./note/松本行弘的程序世界.md)
 
-## 视频
-
-- when iOS love JS
-- React Native 入门
-- weex 入门
-- webview
 
 ## 引用的博客
 - 关注引用的博客 - 
